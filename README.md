@@ -11,12 +11,12 @@
 
 - ⚡ Muito melhor, que ele assuma que esta Lei seja a Chave Universal para todos os problemas da Vida, e que então a utilize para um caso em particular depois de outro. Conforme ele venha gradualmente a compreendê-la, ele ficará surpreso com a simplificação que ela provê para as questões mais obscuras. **- Aleister Crowley**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://twitter.com/ban33751529" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ban33751529" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4rfy&show_icons=true&locale=en&layout=compact" alt="n4rfy" /></p>
