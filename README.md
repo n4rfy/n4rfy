@@ -5,7 +5,7 @@
 
 - 🌱 357Ou 53mPr3 4pR3nd3ndo **C 3 4zz3mbly.**
 
-- 💬 74M8Ém 7eNh0 1N7erE52e p0r e5P1R17U4L1d4dE, eXPL0R4Çã0 DE 81nár102, enGenH4R14 reVER54 e 5157em42 0PEr4c10n412. **g0570 de l0w LEVEl, 4PEN42.**
+- 💬 74M8Ém 7eNh0 1N7erE52e p0r eXPL0R4Çã0 DE 81nár102, enGenH4R14 reVER54 e 5157em42 0PEr4c10n412. **g0570 de l0w LEVEl, 4PEN42.**
 
 - 📫 EM41L: **n4rfyl33t0@protonmail.ch**
 
